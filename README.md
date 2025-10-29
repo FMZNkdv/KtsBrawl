@@ -1,5 +1,5 @@
 ## KtsBrawl ![K](https://img.shields.io/badge/Kotlin-5A17EB?style=flat&logo=kotlin&logoColor=white) ![J](https://img.shields.io/badge/OpenJdk-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Screenshot](https://raw.githubusercontent.com/FMZNkdv/KtsBrawl/refs/heads/main/Screenshot.jpg?token=GHSAT0AAAAAADLBIMCLHPNVZBLO6IVYY5JM2IB6BFA)
+![Screenshot](Screenshot.jpg)
 This is the Brawl Stars Core, version 55.211.1, written in Kotlin. This server emulates libg.so with minor server logic.
 
 ## Requirements
