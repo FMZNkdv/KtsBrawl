@@ -59,9 +59,7 @@ class LoginOk(messageData: ByteArray) : PiranhaMessage(messageData) {
         return mapOf()
     }
 
-    override fun execute(connection: Any, fields: Map<String, Any>) {
-        // No execution needed for LoginOk
-    }
+    override fun execute(connection: Any, fields: Map<String, Any>) {}
 
     override fun getMessageType(): Int {
         return 20104
